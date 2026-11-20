@@ -5,8 +5,7 @@ MATLAB code for Cases 1 and 2 of the paper
 > J. Fang, Y. Shi, W. Hu, Q. Su, H. Yang, I. Lee. *Physics-Informed Spatiotemporal-dependent Reliability-Based Design
 > Optimization with Trajectory Stepwise Uncertainty Reduction*. Submitted to Reliability Engineering & System Safety.
 
-The code contains no plotting, and no result files are shipped; every number is recomputed by the code. The code and
-result files of Case 3 (wind-turbine tower, COMSOL model) are available on request.
+The code and result files of Case 3 (wind-turbine tower, COMSOL model) are available on request.
 
 ## Contents
 
