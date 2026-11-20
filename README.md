@@ -50,6 +50,9 @@ The code was developed and tested with MATLAB R2026b on Windows.
 
 See the README of each case for details.
 
+## FAQ
+If you have any question, please contact the author (jianhaofang2020@gmail.com)
+
 ## License
 
 This code is released under the MIT License; see [`LICENSE`](LICENSE).
